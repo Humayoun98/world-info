@@ -24,7 +24,7 @@ export default function Navbar({}: Props) {
     <div className=" sticky top-0 z-50 shadow-xl dark:shadow-2xl ">
       <div className="flex justify-between max-w-screen-2xl mx-auto   mb-8 px-8  dark:bg-slate-900 md:px-14 py-5 items-center transition-all bg-white">
         <Link href={"/"} className="font-bold  text-xl md:text-2xl">
-          Where in the world?
+          The World App
         </Link>
 
         <section
